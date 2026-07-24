@@ -9,7 +9,10 @@ An intuitive university canteen database system designed to streamline food orde
 
 **System Design & Diagrams**
 #Context Diagram Of Canteen Automation System
-<img width="347" height="292" alt="Image" src="https://github.com/user-attachments/assets/d69192f7-3608-4de2-a505-3006654b4a86" />
+<p align="center">
+  <img src="[https://github.com/user-attachments/assets/xxxx-xxxx-xxxx" width="600" ](https://github.com/user-attachments/assets/d69192f7-3608-4de2-a505-3006654b4a86) alt="Context Diagram"/>
+</p>
+
 
 
 
