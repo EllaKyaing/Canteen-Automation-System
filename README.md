@@ -108,19 +108,6 @@ An intuitive university canteen database system designed to streamline food orde
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4ffa1877-46e7-484b-ba5d-30c9a2c7559f"/>
 </p>
-SELECT 
-    CanteenStaff.StaffID, 
-    CanteenStaff.StaffName, 
-    Order.CustomerID, 
-    Customer.CustomerName, 
-    Order.OrderDate, 
-    Order.OrderID
-FROM Customer 
-INNER JOIN (CanteenStaff INNER JOIN [Order] ON CanteenStaff.StaffID = Order.StaffID) 
-    ON Customer.CustomerID = Order.CustomerID
-GROUP BY 
-    CanteenStaff.StaffID, CanteenStaff.StaffName, Order.CustomerID, 
-    Customer.CustomerName, Order.OrderDate, Order.OrderID;
 	
 **Menu By FoodType Report**
 <p align="center">
