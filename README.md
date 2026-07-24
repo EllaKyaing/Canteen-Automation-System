@@ -130,7 +130,7 @@ An intuitive university canteen database system designed to streamline food orde
 </p>
 
 **About Database System Security**
-	System security plays as an essential role in protecting sensitive data, detecting and responding to threads, preventing unauthorized access, maintaining data integrity and ensuring data availability. If there is no system security, the user's data is not safe and can be easily lost or destroyed.  System security is one of the most important database tools to protect against these negative effects. The most famous methods for database system security are Encryption password, Compact and Repair and Creating Backup. These are tried during assignment performing but it is not included in this paper.
+	System security plays as an essential role in protecting sensitive data, detecting and responding to threads, preventing unauthorized access, maintaining data integrity and ensuring data availability. If there is no system security, the user's data is not safe and can be easily lost or destroyed.  System security is one of the most important database tools to protect against these negative effects. The most famous methods for database system security are Encryption password, Compact and Repair and Creating Backup. These are already configured during assignment performing.
 
 
 
