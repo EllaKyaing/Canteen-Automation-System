@@ -61,38 +61,77 @@ An intuitive university canteen database system designed to streamline food orde
 
 **1NF**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e60b6e9-98cd-465f-b5c8-b8fa227d8f0a"/>
+  <img src="https://github.com/user-attachments/assets/47f30a67-566c-422d-9835-2e420f39dad9"/>
 </p>
 
 **2NF**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e60b6e9-98cd-465f-b5c8-b8fa227d8f0a"/>
+  <img src="https://github.com/user-attachments/assets/486f3ed6-55bc-491e-b231-c9d8da21f829"/>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e60b6e9-98cd-465f-b5c8-b8fa227d8f0a"/>
+  <img src="https://github.com/user-attachments/assets/b3374164-6a92-40d0-ae35-b66a99c6d660"/>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e60b6e9-98cd-465f-b5c8-b8fa227d8f0a"/>
+  <img src="https://github.com/user-attachments/assets/9f68ab2b-03af-4e84-bd8d-b2cd5f7d8856"/>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e60b6e9-98cd-465f-b5c8-b8fa227d8f0a"/>
+  <img src="https://github.com/user-attachments/assets/c4e23d4f-ec26-4a64-9d77-9e52ed1c293f"/>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e60b6e9-98cd-465f-b5c8-b8fa227d8f0a"/>
+  <img src="https://github.com/user-attachments/assets/ab6e16e4-7286-47e7-9b7c-0b3871501833"/>
 </p>
 
 **3NF**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e60b6e9-98cd-465f-b5c8-b8fa227d8f0a"/>
+  <img src="https://github.com/user-attachments/assets/ca8e034b-0412-4d91-b277-a51fface0edb"/>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e60b6e9-98cd-465f-b5c8-b8fa227d8f0a"/>
+  <img src="https://github.com/user-attachments/assets/d6cd11ee-d634-4d4c-93a1-e92e340daf2f"/>
 </p>
 
 **BCNF**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e60b6e9-98cd-465f-b5c8-b8fa227d8f0a"/>
+  <img src="https://github.com/user-attachments/assets/7409d778-dda9-438f-a007-af8f5ee23c79"/>
 </p>
+
+**Data Dictionary**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/638c3c88-0e83-408a-8bb2-6032f394fb21"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b6d1526a-a7ad-438e-a393-17a68c0da0dc"/>
+</p>
+
+**Some Queries**
+**Customer By Staff Report**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4ffa1877-46e7-484b-ba5d-30c9a2c7559f"/>
+</p>
+
+**Menu By FoodType Report**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2f040b65-8a41-47e7-b4c1-df6b6aab7c10"/>
+</p>
+
+**Total_Onhand By FoodType Report**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2e174a60-29e6-4b95-ae46-82d7275192ad"/>
+</p>
+
+**Monthly Income Report**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cad13236-db40-4cb2-85a6-6f6fdba03276"/>
+</p>
+
+**OrderHistory Report**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/362cc987-8b47-4e6e-bb16-959b930e61c4"/>
+</p>
+
+**About Database System Security**
+	System security plays as an essential role in protecting sensitive data, detecting and responding to threads, preventing unauthorized access, maintaining data integrity and ensuring data availability. If there is no system security, the user's data is not safe and can be easily lost or destroyed.  System security is one of the most important database tools to protect against these negative effects. The most famous methods for database system security are Encryption password, Compact and Repair and Creating Backup. These are tried during assignment performing but it is not included in this paper.
+
 
 
 
